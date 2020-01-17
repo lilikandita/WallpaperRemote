@@ -1,0 +1,20 @@
+{
+    "redirect": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.wallpaperffkeren.background.fallendownken",
+        "appid": "pub-3218244831199648",
+        "admobappid": "ca-app-pub-3218244831199648~6757058778",
+        "interid": "ca-app-pub-3218244831199648/5208814017",
+        "nativeid": "ca-app-pub-3218244831199648/5208814017",
+        "icon_promote": "https://dosenmatematika.co.id/iconquran.png",
+        "judul_promote": "Promote App Example",
+        "deskripsi_promote": "Ini mah hanya contoh saja promosi iklan via json",
+        "gambar_promote": "https://images.unsplash.com/photo-1565624352806-6174c3453048?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+        "link_promote": "https://www.google.com/",
+        "status_promote": "1",
+        "interval": "2"
+           
+        }
+    ]
+}
